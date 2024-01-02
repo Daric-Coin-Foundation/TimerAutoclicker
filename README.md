@@ -15,7 +15,9 @@ Timer Autoclicker is written for Android 7 to 14 to auto click on special time o
 
 Then press Allow and on button to give accessibility service permission.
 
-    ![image](https://github.com/Daric-Coin-Foundation/TimerAutoclicker/assets/155148976/15561c5a-71ef-42d3-888c-e975f03ba1ee)
+![image](https://github.com/Daric-Coin-Foundation/TimerAutoclicker/assets/155148976/d2fa2693-c19e-4eb2-b444-4d72dd18caba)
+
+    
 ![image](https://github.com/Daric-Coin-Foundation/TimerAutoclicker/assets/155148976/3cb1c3b2-529e-4b77-b1f9-85254526f01f)
 
 
@@ -26,6 +28,7 @@ The next permission is appearing on top page that you should on Timer Autoclicke
 ![image](https://github.com/Daric-Coin-Foundation/TimerAutoclicker/assets/155148976/8dc3bfbe-a629-4c5b-ad78-16d0f4a26946)
 
 Then open the robot and press start button.
+
  ![image](https://github.com/Daric-Coin-Foundation/TimerAutoclicker/assets/155148976/d2b21853-e2e3-4739-8f46-c7191cd72ade)
 
 Test robot just can be tested on click test location but activated robot will be used on every program. Press time setting. Robot can work in two ways. In first, enter the hour, minute, second and milliseconds of clicking. Then, enter the duration of clicking in terms of second and the time distance between each click in terms of millisecond and press set button to start clicking on specified time. The second way is to clear the time of clicking and just enter the duration of clicking in terms of second and the time distance between each click in terms of millisecond and press set button to start clicking by pressing start button.
